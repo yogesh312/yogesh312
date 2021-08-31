@@ -1,7 +1,7 @@
 ### Yogesh kumar here 👋
 - 🔭 I'm currently working on a project on nodeJS.
-- 🌱 I'm currently learning Merk Stack Technologies.
-- 👯 I'm looking to collaborate on cool Merk Stack Projects.
+- 🌱 I'm currently learning MERN Stack Technologies.
+- 👯 I'm looking to collaborate on cool MERN Stack Projects.
 - 🤔 I'm looking for help with enhancing my skills as a backend developer. 
 - 💬 Ask me about node and tech related stuff.
 - 📫 How to reach me: (https://www.linkedin.com/in/yogesh-kumar-b41b5b213/)
